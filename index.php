@@ -1,3 +1,4 @@
+<?php
 $students = [
     "Emmanuel" => 42,
     "Thierry" => 51,
